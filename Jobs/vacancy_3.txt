@@ -1,0 +1,123 @@
+Automated Manufacturing Developer
+Humanify360
+Montréal, QC
+Hybrid remote
+$80,000–$105,000 a year - Full-time, Permanent
+Job details
+Matches job preferences you are interested in
+Salary
+$80,000–$105,000 a year
+Job type
+Full-time
+Permanent
+Shift & schedule
+8 hour shift
+No weekends
+Monday to Friday
+Benefits
+Pulled from the full job description
+Dental care
+Disability insurance
+Extended health care
+Life insurance
+RRSP match
+Vision care
+Full Job Description
+Humanify is currently hiring for his client Newtrax. Newtrax has joined Sandvik Mining and Rock Technology as a Standalone Business Unit. Newtrax believes the future of mining is underground, not only because minerals close to the surface are increasingly rare, but because underground mines have a significantly lower environmental footprint.
+
+To accelerate the transition to a future where 100% of mining is underground, Newtrax eliminates the current digital divide between surface mines and underground mines. To achieve this goal, Newtrax integrates the latest Internet-of-Things and Artificial Intelligence technologies to monitor and provide insights on underground operations, including people, machines and the environment.
+
+What’s in it for you?
+
+Work in a dynamic and fast paced environment where you will have growth opportunities.
+Join an award-winning company (Ordre des Ingénieurs du Québec: Prix Génie innovation, Selected as Technology Fast 50 in Canada by Deloitte, Entrepreneur of the year - Technology under 100 employees).
+Work in a collaborative and supportive environment, in a human-scale company.
+Be part of a growing company that has a global presence around the world.
+Spacious open office in the heart of Old Montreal.
+Super-convenient access by metro, bus, train or bike.
+Opportunity to work with industry leading professionals.
+Complete insurance package that gives you peace of mind, for you and your family.
+Group RRSP with employer contribution.
+Free on-site access to a fitness center and qualified coaches.
+As a learning organization in a fast-paced global industry, our most precious asset is our employees and our guiding values are:
+
+Health, Safety & Security
+
+Global Citizenship
+
+Teamwork & Trust
+
+World Class
+
+Rigorous Financial Discipline
+
+Summary
+
+As a key member of the test means team that is part of the Hardware Engineering team, the FW test engineer is responsible of developing Software and Firmware solutions for test equipment in production, including Software to exercise the equipment under test and automate the tests, but also be able to develop low-level test software that will be exercised in the board under test with the end objective of providing full coverage of the functions tested during production and at the same time maximize the throughput. In this role, the candidate will contribute to the development of test firmware on our CxS solution products that include the Newtrax Vehicle Device (NVD) and Newtrax Pedestrian Devices (NDP). Newtrax offers a collaborative environment of smart and enthusiastic team members respected for their unique talents and empowered to perform in their responsibilities.
+
+Your responsibilities
+
+Actively contribute to the architecture, design, coding and testing of the software used on the test stations to effectively meet business needs
+Develop special Firmware to exercise the units under test in such way that the functional test coverage is maximized.
+Create test cases and build test suites with a focus on automation
+Design and implement the testing platform at the product level
+Create test cases and build test suites with a focus on automation
+Plan, develop, coordinate, and perform testing for multiple products
+Support the operations team in new product introduction
+Investigate issues on test stations at the Contract Manufacturer (CM) side and provide solutions and/or workarounds
+Participate in the technological monitoring and the definition of coding standards to ensure that systems are efficient, resilient and durable
+Participate in discussions on product design and present test results to engineering teams and management.
+Validate that all design documents are accurate and updated
+Ensure all documentation is accurate and relevant (Release notes, installation, operation and maintenance manuals, …)
+When needed, take action and achieve expected results. (Note: at this level, the incumbent is also expected to act as a coach for certain human resources).
+Your talent
+
+Bachelor’s degree in software engineering or computer sciences, or equivalent combination of education and years of relevant experience.
+Minimum 3 years of experience in testing/test automation of embedded software and associated applications.
+Experience with Embedded Linux.
+Programming languages: C (Mandatory), C++ , MySQL.
+Skills in programming/debugging Python, C / C++, Qt, etc.
+Knowledge in LTE, WiFi, BLE, CAN bus is preferred.
+(ARM), Vehicle communication bus (CAN), Universal Serial Bus (USB).
+Advanced debugging skills (JTAG).
+Experience in some of the following areas: Embedded firmware development, Wireless technologies (LTE, BLE, WIFI), Internet of Things (IoT) Devices, Unit testing frameworks, Microcontrollers (MSP430, STM32, Nordic (nrf528xx)), Embedded Linux.
+Demonstrated experience in data communication networks and associated protocols and technologies such as TCP, UDP, Multicasting, QoS, RTP, TLS, SNMP, HTTP/HTTPS, DNS, DHCP, Layer 2 and 3 switching, firewalls, NATs and basic network security principles.
+Strong technical understanding of the challenges of real-time embedded firmware development on a platform with limited resources (Flash, RAM, CPU cycles).
+Asset: Programming Language: Go, Python.
+Asset: Operating system: FreeRTOS, Zephyr.
+Asset: Development Framework: Qt.
+Asset: Linux Distribution tool: Yocto.
+Asset: Time of Flight technology (CSS, UWB), radio communication protocol (VHF, UHF) and NFC technology.
+Asset: Environment tools: Gitlab, Jira, Zephyr, Confluence, Microsoft Teams.
+Asset: Android application development.
+High degree of self-motivation and ability to work independently
+Ability to adapt in a fast-paced development environment
+Strong communication skills with proven ability to relate with both technical and business professionals
+Teamwork and partnering skills for cross-group collaboration
+Proficient spoken and written English and/or French (international suppliers and clients).
+Ability to travel occasionally to customer sites 10% (Contract Manufacturers in the Montreal region.
+**As a technology company, we firmly believe that having women in the technology workforce contributes to the diversity of thought within our company, which then helps us push the boundaries of innovation and creativity. We’re committed to growing our female workforce and are proud to be an equal opportunity employer.
+#humanifyti
+
+Job Types: Full-time, Permanent
+
+Salary: $80,000.00-$105,000.00 per year
+
+Benefits:
+
+Dental care
+Disability insurance
+Extended health care
+Life insurance
+RRSP match
+Vision care
+Schedule:
+
+8 hour shift
+Monday to Friday
+No weekends
+Work Location: Hybrid remote in Montréal, QC H2Y 1P5
+
+Hiring Insights
+Hiring 1 candidate for this role
+

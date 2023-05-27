@@ -1,0 +1,161 @@
+Développeur(euse) Java / Java Developer
+ALTEN CANADA INC.
+Montréal, QC
+Full-time, Permanent, Fixed term contract
+Job details
+Matches job preferences you are interested in
+Job type
+Full-time
+Permanent
+Fixed term contract
+Shift & schedule
+8 hour shift
+Monday to Friday
+Benefits
+Pulled from the full job description
+Company events
+Company pension
+Dental care
+Disability insurance
+Extended health care
+Life insurance
+Paid time off
+RRSP match
+Work from home
+Full Job Description
+Description du poste
+
+An english version will follow
+
+Avec 40 000 consultants dans le monde, ALTEN est un leader de l'industrie du conseil en ingénierie et en informatique. Nous contribuons à optimiser les performances technologiques de l'entreprise depuis plus de 30 ans.
+
+Les femmes et les hommes d'ALTEN sont le moteur de nos activités. Nous fournissons à chaque candidat un service hautement personnalisé, en sélectionnant les meilleures opportunités pour répondre à ses aspirations professionnelles. Nous mettons en avant votre savoir-faire pour vous positionner dans des projets passionnants qui correspondent à vos ambitions de carrière.
+
+Le rôle principal du poste est de concevoir des outils de transformation de données sur Microsoft Azure en utilisant Java, Spark et Angular pour une ou plusieurs fonctions commerciales .Ce poste est également lié à l'assurance de l'intégrité et de la qualité des pratiques de développement technique, de sécurité et de soutien des systèmes
+
+Compétences fonctionnelles:
+
+Expérience avérée dans la conception, le développement, la mise en œuvre et la maintenance des processus de transformation des données et de l'interface utilisateur en Java, Angular et Spark sur Microsoft Azure
+Connaissance approfondie / expérience de l'analyse d'applications événementielles volumineuses et multithread
+Vaste expérience du contrôle de version et de la livraison continue
+Connaissance approfondie/expérience de la technologie Big Data et du cloud public Microsoft Azure
+Compétences techniques:
+Plus de 8 ans d'expérience dans le développement d'applications multithread basées sur Java
+Expérience de l'utilisation de Java 8, Spring Boot, Spark, Spring Framework et Microservices
+2+ ans d'expérience de travail avec Spark, Hadoop
+2+ ans d'expérience de travail avec Microsoft Azure HDInsight, AKS
+Expérience pratique en SQL et No-SQL (de préférence Oracle, Postgres)
+Expérience avec divers outils de développement Web Java, Angular 7, XML, JSON et HTML5.
+Vaste expérience dans la création d'un pipeline de livraison continue avec GIT, Maven, Jenkins, Nexus, Sonar, Checkmarx et XL-Deploy
+Vaste expérience dans l'écriture de scripts Unix/Linux Shell• Bonne connaissance de Perl et Python• Bonne connaissance et expérience avec le serveur Tomcat
+Bonne connaissance et expérience de la transmission de fichiers et du réseau (DNS, TCP/IP)
+Solides compétences en dépannage• Expérience et capacité à travailler avec un environnement Agile et à faire avancer les projets au sein d'une équipe
+Doit être organisé, soucieux du détail, motivé, discipliné, professionnel et avoir l'esprit d'équipe pour plusieurs tâches à la fois, dans un environnement au rythme rapide répondant à de multiples demandes
+Désiré/Plus:
+
+Autogestion dans un environnement de développement rapide.
+Connaissance approfondie du cycle de vie du développement logiciel et des pratiques acceptées.
+Aptitudes à la réflexion stratégique et analytique avec une capacité à résoudre des problèmes et à prendre des décisions.
+Compréhension du secteur des services financiers et des produits associés
+Expérience dans les frameworks open source
+Expérience de travail sur des applications de données en streaming (par exemple, Kafka, Flink ou Spark Steaming)
+Fonctions essentielles:
+
+Utilise une expertise dans les techniques et les outils appropriés pour concevoir, développer et maintenir des logiciels d'application efficaces, sous la responsabilité du responsable technique.
+Participe à l'élaboration et à la mise en œuvre de normes liées aux activités de développement d'applications, de sécurité et de soutien du système.
+Effectue des examens formels et informels des processus et des produits de développement de logiciels pour s'assurer de la qualité et du respect des normes.
+Établit et maintient des procédures de contrôle pour le contrôle de version.
+Surveille et suit les problèmes et problèmes liés à la qualité jusqu'à leur résolution.
+Je suis convaincu! Que faut-il pour venir et avec eux?
+
+État d'esprit de résolution de problèmes.
+Créativité (sortir des sentiers battus).
+Intégrité.
+Intérêt pour la fintech.
+Principales technologies: Java, Angular, Cloud Azure, technologies de base de données.
+Venez de n'importe quel secteur pour apporter différentes idées pour résoudre des problèmes commerciaux.
+Capacité à collaborer et à travailler en équipe cohésive pour créer quelque chose d'extraordinaire!
+Alten Canada offre un environnement de travail dynamique et collaboratif. Nous offrons à notre équipe des expériences stimulantes et un investissement dans leur développement professionnel.
+
+Parmi nos avantages:
+
+Forfait compétitif pour les employés et les pigistes
+Aide au développement professionnel (certification)
+Mobilité internationale dans plus de 25 pays
+Des tonnes d'activités d'entreprise
+**********************************************************************
+
+With 40,000 consultants worldwide, ALTEN is a leader in the engineering and IT consulting industry. We have helped optimize corporate technological performance for more than 30 years. The women and men at ALTEN are the driving force behind our activities. We provide each candidate with highly personalized service, selecting the best opportunities to meet their professional aspirations. We highlight your know-how to position you in exciting projects that match your career ambitions.
+
+To support the continuing growth of one of our major clients leading in the financial industry, Alten is recruiting multiple Java Software Developers for different compelling projects & teams. Our current but still evolving partnership with them makes it so Alten presently has visibility on on-going projects and job openings that are not open to the public or other staffing firms, hence the reason you should reach out to us! We'll be more than happy to share with you specifics about these possibilities.
+
+Alten Canada offers a dynamic and collaborative work environment. We offer our team stimulating experiences and investment in their professional development.
+
+The primary role of the position is to design data transformation tools on Microsoft Azure using Java, Spark and Angular for one or more business functions. This position is also related to ensuring integrity and quality in the technical development, security, and systems support practices.
+
+Functional skills:
+
+Proven experience in designing, developing, implementing, and maintaining data transformation processes and UI in Java, Angular and Spark on Microsoft Azure
+Extensive knowledge of /experience with analyzing large and multithread event driven applications
+Extensive experience with version control and continuous delivery
+Extensive knowledge of /experience with Big Data technology and public cloud Microsoft Azure
+Technical skills:
+
+8+ years of experience in developing Java-based multithreaded applications
+Experience using Java 8, Spring Boot, Spark, Spring framework, and Microservices
+2+ years of experience working with Spark, Hadoop
+2+ years of experience working with Microsoft Azure HDInsight, AKS
+Hands-on experience in SQL and No-SQL (preferably Oracle, Postgres)
+Experienced with various Java Web development tools, Angular 7, XML, JSON and HTML5.
+Extensive experience in building a Continuous Delivery pipeline with GIT, Maven, Jenkins, Nexus, Sonar, Checkmarx, and XL-Deploy
+Extensive experience in writing Unix/Linux Shell scripts
+Good knowledge with Perl and Python
+Good knowledge and experience with Tomcat server
+Good knowledge and experience with file transmission and network (DNS, TCP/IP)
+Strong troubleshooting skills
+Experience and able to work with Agile environment and drive projects forward within team setting
+Must be organized, detail-oriented, self-motivated, disciplined, professional, and a team player to multiple tasks at one time, in a fast pace environment handling multiple demands
+Desired/Plus:
+
+Self-managing in a fast-paced development environment.
+Extensive knowledge of software development life cycle and accepted practices.
+Strategic and analytical thinking skills with an ability to solve problems and make decisions.
+Understanding of financial services industry and associated products
+Experience in open source frameworks
+Experience working on streaming data applications (e.g., Kafka, Flink or Spark Steaming)
+Essential Functions:
+
+Uses expertise in appropriatetechniques and tools to design, develop and maintain effective application software, reporting to technical lead.
+Participates to the development and implementation of standards related to the application development, security and system support activities.
+Performs formal and informal reviews of software development processes and products to ascertain quality and adherence to standards.
+Establishes and maintains control procedures for version control.
+Monitors and tracks quality related issues and problems through to resolution.
+Among our benefits:
+
+Competitive package for both employees and freelancers
+Professional development assistance (certification)
+International mobility in more than 25 countries
+Tons of corporate activities
+Type d'emploi : Temps Plein, Pigiste (Freelance), Permanent
+
+Reference ID: 4942
+
+Type d'emploi : Temps Plein, Contractuel, Permanent
+
+Avantages :
+
+Assurance Dentaire
+Assurance Invalidité
+Assurance Maladie Complémentaire
+Assurance Vie
+Congés de Vacances et Compensatoires
+Événements d'Entreprise
+Pension de Retraite
+REER Collectif
+Travail à Distance
+Horaires de travail :
+
+8 Heures
+Du Lundi au Vendredi
+Hiring Insights
+Hiring 10+ candidates for this role

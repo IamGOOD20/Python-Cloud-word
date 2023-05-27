@@ -1,0 +1,70 @@
+BI Developer
+Stella-Jones Inc.
+Montréal, QC
+Full-time
+Job details
+Matches job preferences you are interested in
+Job type
+Full-time
+Benefits
+Pulled from the full job description
+Dental care
+Disability insurance
+Extended health care
+Life insurance
+RRSP match
+Full Job Description
+Stella-Jones is North America's leading producer of industrial pressure-treated wood products. Responding to the vital infrastructure needs of our economy, we manufacture and distribute railway ties, utility poles, residential lumber and industrial wood products across the continent. The Company’s common shares are listed on the Toronto Stock Exchange (TSX: SJ).
+
+Stella-Jones recruits team members who embody our core values and desire an environment where growth is inspired, dedication is recognized, and achievement is rewarded. Our ever- expanding footprint provides a great prospect for career advancement as we seek to develop our emerging leaders.
+
+Stella-Jones is seeking an experienced and highly skilled Business Intelligence Developer to join our team. The ideal candidate will be responsible for designing, developing, and maintaining SAP Business Warehouse (BW) / Data Warehouse Cloud solutions and Power BI Reports that support data-driven decision-making and drive business growth. If you have a strong background in SAP BW and/or SAP Data Warehouse Cloud and/or Power BI and a passion for leveraging technology to create innovative solutions, we would love to hear from you.
+
+Responsibilities:
+Collaborate with stakeholders to gather and understand business requirements, translating them into functional and technical specifications for SAP BW / DW Cloud solutions and Power BI.
+Design, develop, and maintain SAP BW objects, including InfoObjects, InfoCubes, DataStore Objects (DSOs), Process Chains, etc.
+Design, develop, and maintain SAP Hana Native Objects such as calculation views and SQL Scripts.
+Design, develop, and maintain SAP DW Cloud objects, including SAP BW Bridge Objects / Analytic Models / Views / Consumption Models / Perspectives / etc.
+Design, develop, and maintain BI reports and dashboards including DAX development, Power Query, data modelling, and visualizations in Power BI
+Extract, transform, and load (ETL) data from various SAP and non-SAP sources using SAP data extraction methods, such as LO Extractors, Generic Extractors, and ABAP routines and CDS Views
+Optimize the data warehouse performance by monitoring data loads, query performance, and system resources, implementing appropriate tuning measures when necessary.
+Optimize Power BI Reports performance by monitoring Data loads and Dax/M Queries, implementing appropriate tuning measures when necessary.
+Integrate SAP BW/DW Cloud with other SAP components, such as SAP Analytics Cloud, HANA, or BPC, to deliver comprehensive reporting and analytics solutions.
+Ensure data quality and integrity by implementing and maintaining robust data validation processes, data archiving strategies, and error handling mechanisms.
+Provide end-user support, training, and documentation.
+Collaborate with other SAP team members, such as functional consultants, data architects, and ABAP developers, to ensure seamless integration of SAP BW solutions into the overall SAP landscape.
+Continuously improve BI solutions by staying current with industry trends, evaluating new tools and technologies, and recommending enhancements.
+Core Competencies:
+Understanding of Data Visualization techniques and data storytelling.
+Understanding of data warehouse concepts, such as star schema, snowflake schema, and data modeling.
+Proficient in SAP BW 7.x and experience with BW/4HANA or SAP DWC is a plus.
+Proficient in modeling SAP Hana native objects such as calculation views and SQL scripts.
+Proficient in Power BI/ DAX report development, data modeling, and visualization.
+Solid knowledge of SAP data extraction methods. Experience in CDS views modeling and ABAP Programming is a plus.
+Experience with programming languages like Python or R is a plus.
+Familiarity with SAP integration technologies, such as SAP Analytics Cloud, or BPC.
+Strong analytical, problem-solving, and communication skills, with an ability to explain complex technical concepts to non-technical stakeholders.
+Ability to work independently and collaboratively in a fast-paced, dynamic environment.
+Education:
+Bachelor’s degree in computer science, Information Systems, or a related field; a Master's degree is a plus.
+Experience:
+Minimum of 3 years of experience in SAP BW/Hana development, with a strong focus on data modeling, ETL, and performance optimization, reporting, and dashboard creation.
+Language:
+Bilingual - French and English (written and verbal)
+In addition to a knowledge of the French language, this role requires proficiency in English as a result of the duties to be performed.
+
+#STELLAQC1
+
+As a Stella-Jones employee, you will enjoy access to excellent benefits and incentives, including:
+Extended health and dental coverage
+Life insurance and accidental death & dismemberment (AD&D)
+Short-Term and Long-Term disability coverage
+Competitive compensation
+Annual Profit Share Program
+Retirement program (RRSP) with generous Company match (150% of employee's 4% contribution)
+Company Share Purchase Program with 10% Company contribution match
+Career advancement opportunities
+Stella-Jones is an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, provincial, or local laws.
+
+This policy applies to all employment practices within our organization, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship. Stella-Jones makes hiring decisions based solely on qualifications, merit, and business needs at the time.
+Hiring Insights

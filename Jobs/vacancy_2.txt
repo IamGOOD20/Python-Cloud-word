@@ -1,0 +1,170 @@
+Python Developer - Développeur Python - BLM
+Noramtec Consultants
+Montréal, QC
+Full-time
+Job details
+Matches job preferences you are interested in
+Job type
+Full-time
+Shift & schedule
+8 hour shift
+Day shift
+Monday to Friday
+Qualifications
+Bachelor's Degree (Obligatoire)
+
+Work authorization (Obligatoire)
+
+Python: 3 years (Obligatoire)
+
+Programming: 3 years (Obligatoire)
+
+Application development: 3 years (Obligatoire)
+
+Software development: 3 years (Obligatoire)
+
+Front-end development: 1 year (Obligatoire)
+
+Back-end developement: 1 year (Obligatoire)
+
+English (Obligatoire)
+
+French (Obligatoire)
+
+Full Job Description
+Description en anglais à suivre
+
+Postes d'ingénieur en développement logiciel pour notre client de la région de Montréal. Ce sont des contrats à long terme qui ont le potentiel de durer des années.
+
+Lieu : Environnement de bureau.
+
+Formation disponible :
+
+Le client propose des programmes de formation pour développer les compétences nécessaires dans des applications de programmation logicielle spécifiques que les employés potentiels ne maîtrisent peut-être pas encore.
+
+Membre de l'équipe
+
+Membre actif d'une équipe gérée par le processus de développement Agile basé sur Scrum/Kanban.
+
+Responsabilités générales :
+
+Conception, maintenance et exploitation d'applications logicielles pour les projets du département local de Montréal ainsi que pour les grands projets mondiaux
+Concevoir des applications logicielles informatiques prenant en charge les activités et les programmes d'essais de moteurs d'avions
+Responsable de la haute fiabilité et de la maintenabilité des systèmes existants et nouveaux
+Maintenir les données de test et l'intégrité et la disponibilité des applications
+Responsable de la mise à jour de la documentation
+Organisation et soutien de types collaboratifs de sessions de revue de conception
+Développement full stack : expérience front-end et back-end
+Exigences générales:
+
+Baccalauréat en génie logiciel d'une université reconnue.
+Expérience avec le développement d'applications
+Expérience avérée dans le développement de logiciels
+Expérience de travail dans un environnement agile (Scrum/Kanban) un atout
+Expérience requise avec:
+
+Langage de codage Python indispensable
+VCS (GIT de préférence)
+SGBD grand public requis
+Python Web Framework (Django ou Flask)
+Backend Python, Django, mySQL
+Développement frontend (HTML,CSS,JS,JQUERY)
+L'expérience suivante est un atout certain :
+Expérience de travail dans un environnement agile (Scrum/Kanban)
+Templating Frontend (par exemple Jinja)
+Expérience avec les revues de code
+Expérience en tests unitaires
+Bonne compréhension des systèmes informatiques - réseaux, serveurs et virtualisation
+3 à 5 ans d'expérience en programmation sont souhaitables
+Connaissance du développement de processus
+Esprit d'équipe
+Proactive
+Compétences bilingues français et anglais en communication verbale et écrite afin de communiquer avec les gens du Québec, du Canada et des États-Unis.
+
+Veuillez noter que vous devez avoir le droit légal de travailler au Canada.
+
+Si vous êtes intéressé ou connaissez quelqu'un intéressé à discuter, envoyez-moi un CV maintenant!
+
+Je remercie tous les candidats d'avoir répondu. Seuls les Candidats retenus pour un entretien seront contactés. Tous les autres CV seront conservés pour examen futur
+
+Software Business Developer Engineering positions for our Montreal area client. These are long term contracts that have the potential to last for years.
+
+Location: Office environment.
+
+Training available:
+
+The client offers training programs to develop the necessary skills in specific software programming applications that the potential employees may not have mastered yet.
+
+Team Member
+
+Active member of a team managed by Scrum/Kanban based Agile development process.
+
+General Responsibilities:
+
+Design, maintenance and operation of software applications for both local Montreal department projects as well as for large Global projects
+Designing IT software applications supporting aircraft engine test activities and programs
+Responsible for high reliability and maintainability of existing and new systems
+Maintaining test data and application integrity and availability
+Responsible for updating documentation
+Organizing and supporting collaborative types of design review sessions
+Full stack development: Front end and back end experience
+General Requirements:
+
+Bachelor degree in Software Engineering from a recognized university.
+Experience with Application Development
+Proven experience in software Development
+Experience working in an agile environment (Scrum/Kanban) an asset
+Required experience with:
+
+Python Coding language a must
+VCS (GIT preferably)
+Mainstream DBMS required
+Python Web Framework (Django or Flask)
+Backend Python, Django, mySQL
+Frontend development (HTML,CSS,JS,JQUERY)
+The following experience are definite assets:
+Work experience in an agile environment (Scrum/Kanban)
+Frontend Templating (for example Jinja)
+Experience with Code Reviews
+Experience in Unit Testing
+Good understanding of IT Systems – networks, servers and virtualization
+3 -5 years of Programming experience is desirable
+Knowledge of process development
+Team player
+Pro-active
+Bilingual French and English verbal and written communication skills in order to communicate with people in Quebec, Canada and the USA.
+
+Qualified candidates must be legally entitled to work in Canada and able to able to pass Controlled Goods verification.
+
+Interested applicants send in your MSWord resume and contact information.
+
+I thank all applicants for responding. Only those Candidates chosen for an interview will be contacted. All other resumes will be retained for future consideration.
+
+MON1
+
+Job Type: Full-time
+
+Schedule:
+
+8 hour shift
+Day shift
+Monday to Friday
+Ability to commute/relocate:
+
+Montréal, QC: reliably commute or plan to relocate before starting work (required)
+Education:
+
+Bachelor's Degree (required)
+Experience:
+
+Python: 3 years (required)
+Programming: 3 years (required)
+Application development: 3 years (required)
+Software development: 3 years (required)
+Front-end development: 1 year (required)
+Back-end developement: 1 year (required)
+Language:
+
+English (required)
+French (required)
+Work Location: In person

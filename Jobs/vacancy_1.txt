@@ -1,0 +1,109 @@
+Senior C/C++/Python Software Developer
+Humanitas Solutions
+Montréal, QC
+Hybrid remote
+$55,000–$110,000 a year - Full-time, Permanent
+Job details
+Matches job preferences you are interested in
+Salary
+$55,000–$110,000 a year
+Job type
+Full-time
+Permanent
+Shift & schedule
+8 hour shift
+Qualifications
+Bachelor's Degree (Preferred)
+
+C/C++/Python: 5 years (Preferred)
+
+Benefits
+Pulled from the full job description
+Company events
+Dental care
+Discounted or free food
+Extended health care
+Flexible schedule
+Language training provided
+On-site parking
+Vision care
+Full Job Description
+The Company
+Humanitas is a young, award-winning innovator startup based in Montreal specializing in emergency response and resilient technologies. Working with a list of world-class industry leaders and researchers, our team specializes in advanced telecom, simulation, visualization, cybersecurity, swarming robotics, edge computing and more. Our multidisciplinary team also endeavors to universalize our technology and expand their applications to routine use cases beyond edge scenarios.
+
+We are an ambitious group of young people who aim to contribute to a little change in the world by creating IT solutions that would help people around the world, especially when they need it most. Compassion is at the core of our business and our collaboration is stimulated by our desire to challenge our limits and explore our potential.
+
+We are looking for an Intermediate/Senior Software Developer with deep C/C++ knowledge to join our journey and contribute to our software development in telecommunication (5G/6G) and advanced smart IoT infrastructure.
+
+The Job
+We are looking for like-minded partners, who would join our journey and contribute to our quest.
+
+Today we need a partner who would run within the following area:
+
+Implementing software using C/C++, Python and Java on a multicore MPSoC or processor, including wireless communications technologies and protocols
+Participate into architecting, designing, coding, reviewing, and verifying complex software for IoT networks, 5G RAN, V-RAN, and O-RAN based products.
+Participate into designing network optimization solutions such as flow routing protocols, reliability mechanisms, and self-optimization for VNF-enabled services based on Edge/Cloud architecture.
+Applying AI and machine learning techniques for network optimization.
+Creating software designs that operate in an edge and cloud-based architecture.
+Implementing testbed network solutions to study and transfer to delivered applications.
+Preparing the functional and design specification in line with internal documentation standards;
+Ensuring adequate documentation is produced and maintained, in line with internal processes and practices, for the design, specification, development, unit testing, integration and deployment phases of delivered applications;
+Performing unit and qualification testing of software applications, including functional and performance tests;
+Preparing and supporting the installation and the deployment of new releases.
+Acting as a team lead to guide the project and support more junior developers
+Participating in the drafting of patents
+The ideal partner would have:
+
+Bachelor's Degree in Electrical Engineering, Computer Science, RF design, or equivalent
+Deep experience in C/C++/Python
+Experience with IoT development
+Proven programming experience with TCP/IP based protocols (sockets), threads and state machines
+Solid understanding with 5G NR, 5G RAN, O-RAN, V-RAN, CPRI/eCPRI, front haul or other wireless technologies is an asset
+Experience with IoT, LTE, 3G/4G/5G, 3GPP, NFV network slicing, channel coding or SDN is an asset
+Experience with network optimization, Self-configuring and self-optimizing Networks, AI and ML techniques
+Telecommunications industry experience
+Flexibility and strong project/assigned tasks ownership
+Capability to adapt to organizational processes and to contribute to continuous improvement
+Strong aptitude to work and make decisions autonomously
+A result-oriented approach, strong planning, and organizational skills
+Rigorous and creative software development attitude
+Ability to troubleshoot problems
+Resourcefulness, dynamic and a team player attitude
+Excellent verbal and written communication skills (French or English)
+Job Types: Full-time, Permanent
+
+Salary: $55,000.00-$110,000.00 per year
+
+Benefits:
+
+Company events
+Dental care
+Discounted or free food
+Extended health care
+Flexible schedule
+Language training provided
+On-site parking
+Vision care
+Flexible Language Requirement:
+
+English not required
+French not required
+Schedule:
+
+8 hour shift
+Ability to commute/relocate:
+
+Montréal, QC: reliably commute or plan to relocate before starting work (required)
+Education:
+
+Bachelor's Degree (preferred)
+Experience:
+
+C/C++/Python: 5 years (preferred)
+Work Location: Hybrid remote in Montréal, QC
+
+Hiring Insights
+Hiring 2 candidates for this role
+
+Urgently hiring
+

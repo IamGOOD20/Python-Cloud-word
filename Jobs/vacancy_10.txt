@@ -1,0 +1,84 @@
+BI Developer - FRENCH (Hybrid)
+Sky Systems Inc
+Montréal, QC
+$85–$90 an hour - Fixed term contract
+Job details
+Matches job preferences you are interested in
+Salary
+$85–$90 an hour
+Job type
+Fixed term contract
+Shift & schedule
+Monday to Friday
+Qualifications
+Business Intelligence (BI): 6 years (Preferred)
+
+SQL: 4 years (Preferred)
+
+Business intelligence visualization tools: 5 years (Preferred)
+
+Power BI (DAX): 4 years (Preferred)
+
+Power BI Report Builder: 4 years (Preferred)
+
+Databricks development tool: 3 years (Preferred)
+
+ETL: 2 years (Preferred)
+
+French (Preferred)
+
+Full Job Description
+BI Developer and Lead Technician
+7 Months + Mandate
+Montreal, QC (Hybrid) - 1 day/week on-site and the rest remote
+
+Job description:
+
+- Act as developer and tech lead in a cell dedicated to the field of human resources;
+
+- Develop solutions for the field of corporate analysis.
+
+Key points/Highlights:
+
+- Have a minimum of 6 years and more of relevant experience
+- Experience in developing business intelligence solutions.
+- Have a very good knowledge of SQL programming languages and/or T-SQL
+- Have a good understanding of modeling techniques
+- Experience with business intelligence visualization tools such as (specify which ones and detail the use): * Power BI (DAX), * Power BI Report Builder, * Excel or other.
+
+Assets:
+- Knowledge of the Databricks development tool
+– based on the Apache Spark cloud platform.
+- Have knowledge of the Python programming language
+- Knowledge of an ETL tool such as Talend, Azure Data Factory, SSIS or other.
+- Knowledge of cloud and big data tools such as Azure Data Lake Storage, Azure HDInsight, Azure Synapse (formerly SQL Data Warehouse), etc.
+
+Job Type: Fixed term contract
+
+Pay: $85.00-$90.00 per hour
+
+Schedule:
+
+Monday to Friday
+Application question(s):
+
+How do you rate yourself in French out of 5?
+This is a hybrid position in Montreal, QC with 1 day/week on-site and the rest remote. Will you be able to work on-site when required? (Yes/No)
+Experience:
+
+Business Intelligence (BI): 6 years (preferred)
+SQL: 4 years (preferred)
+business intelligence visualization tools: 5 years (preferred)
+Power BI (DAX): 4 years (preferred)
+Power BI Report Builder: 4 years (preferred)
+Databricks development tool: 3 years (preferred)
+ETL: 2 years (preferred)
+Language:
+
+French (preferred)
+Work Location: In person
+
+Hiring Insights
+Hiring 1 candidate for this role
+
+Urgently hiring

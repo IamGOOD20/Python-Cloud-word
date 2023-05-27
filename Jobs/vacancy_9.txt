@@ -1,0 +1,76 @@
+Embedded Developer
+Actalent
+(part of Allegis Group)
+Montréal, QC
+$38–$50 an hour - Fixed term contract
+Job details
+Matches job preferences you are interested in
+Salary
+$38–$50 an hour
+Job type
+Fixed term contract
+Full Job Description
+Equivalent Experience
+Description:
+
+Our client creates solutions that enable two-thirds of all aircraft to take off and land safely. They design in-flight entertainment systems that captivate 50 million travelers each year. They also develop the avionics that power the world's largest commercial aircraft. And their simulators are training the next generation of fighter, transport and search and rescue helicopter pilots. Finally, their aerospace team members work closely together to make a difference.
+
+The Avionics office located in Ville Saint-Laurent is the Thales Group's center of expertise for fly-by-wire flight controls for business and regional aircraft. The team designs and integrates avionics suites, fly-by-wire systems, satellite communications systems and other innovative concepts for the business and regional aircraft markets.
+
+Within the Aeronautical Operations & Systems Competence Center, you will integrate a team of 12 engineers within the R&D department, and more specifically the software department, in the development of software for flight control systems. They received new projects from their clients and this is why this role is open. This person will help with tooling and avionics.
+
+You will participate in the development of embedded software applications and low-level drivers.
+You will participate in the development of solutions enabling Thales customers to pilot their aircraft with the highest level of safety.
+You will participate in the entire project life cycle: design, development, integration and support.
+You must be able to work on all phases of the software development process (specification, development, integration and testing).
+You will work in interface with all the project trades: system engineering, hardware designers, software developers, integrators, etc.
+You will be responsible for process and standards compliance within the scope of the role.
+Skills:
+
+real time embedded, embedded c, linux, python, embedded software, rtos, do178, do-178, yocto, agile, git, bitbucket, jenkins, artifactory, jira, DOORS, arm, stm32, ci/cd, c/c++, bootloader, avionic, ima, Integrated modular avionics, aerospace, microcontroller
+
+Top Skills Details:
+
+real time embedded,embedded c,linux,python,embedded software
+
+Additional Skills & Qualifications:
+
+RTOS, FreeRTOS, Yocto for real time development
+
+ARM and STM32
+
+DO or ISO standards
+
+IMA
+
+Git
+
+CI/CD
+
+Agile
+
+Bitbucket
+
+Jenkins
+
+Artifactory
+
+Jira
+
+Doors
+
+Experience Level:
+
+Intermediate Level
+
+À propos d'Actalent:
+Actalent relie la passion à la mission. Nos solutions de candidats talentueux et la performance de nos services produisent la valeur et les résultats, tout en apportant la compétence qui permet à nos clients de réaliser plus. Nos experts situés dans le monde entier inspirent au quotidien. Nous soutenons les initiatives essentielles en ingénierie et en sciences, par les expériences qui favorisent un développement continu. La différence, c’est nos gens. Actalent est une société d’exploitation d’Allegis Group, leader mondial des solutions de candidats talentueux.
+
+L’entreprise souscrit au principe d’égalité d’accès à l’emploi et prendra en compte toutes les candidatures sans distinction de race, sexe, âge, couleur, religion, nationalité, statut de vétéran, handicap, orientation sexuelle, identité sexuelle, information génétique ou toute autre distinction protégée par la loi.
+
+About Actalent:
+Actalent connects passion with purpose. Our scalable talent solutions and services capabilities drive value and results and provide the expertise to help our customers achieve more. Every day, our experts around the globe are making an impact. We’re supporting critical initiatives in engineering and sciences that advance how companies serve the world. Actalent promotes consultant care and engagement through experiences that enable continuous development. Our people are the difference. Actalent is an operating company of Allegis Group, the global leader in talent solutions.
+
+The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.
+
+Hiring Insights

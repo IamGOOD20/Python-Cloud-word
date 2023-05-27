@@ -1,0 +1,31 @@
+Perl-Python Backend Developer
+Michael Page CA
+Town of Mount-Royal, QC
+Fixed term contract
+Job details
+No matching job preferences
+Job type
+Fixed term contract
+Full Job Description
+The candidate will work on a global team of developers and Strats across North America, Europe, and Asia.
+
+Collaborate directly with business users, Strats and tech across front and back-office business areas
+Analyze and redesign existing solutions
+Develop and automate financial models and data feeds testing
+Develop, monitor, and validate the quality of incoming and outgoing data feedsMPI does not discriminate on the basis of race, religion, sex, sexual orientation, gender identity or expression, age, disability, marital status, or based on an individual's status in any group or class otherwise protected under applicable human rights legislation. MPI encourages applications from minorities, women, the disabled and all other qualified applicants
+
+7+ year of experience in Perl and Python languages
+Solid foundation in data structures, algorithms, and software design best-practices
+Excellent communication skills and interpersonal skills - engaging directly with business users
+Solid experience in data feed validation and regression testing
+Desired Skills:
+Experience in developing complex financial products or financial models
+Experience and interest working in a multi-language environment is a plus
+Experience working with data analytics tooling is a plus
+Experience in Q/KDB is an asset
+Experience in Release Management and Production Support
+Client is a global financial services firm and a market leader in investment banking, securities, investment management and wealth management services.
+
+Long term contract
+
+Hybrid position

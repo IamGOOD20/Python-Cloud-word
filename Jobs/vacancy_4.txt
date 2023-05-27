@@ -1,0 +1,165 @@
+Analyste QA / QA Analyst
+LGS, une société IBM
+Montréal, QC
+Hybrid remote
+Full-time
+
+Job
+
+Company
+Job details
+Matches job preferences you are interested in
+Job type
+Full-time
+Shift & schedule
+8 hour shift
+Monday to Friday
+Qualifications
+Quality assurance: 1 year (Souhaité)
+
+Benefits
+Pulled from the full job description
+Casual dress
+Dental care
+Flexible schedule
+Language training provided
+Life insurance
+RRSP match
+Vision care
+Wellness program
+Work from home
+Full Job Description
+Analyste QA / QA Analyst
+
+English version Below
+
+Vous avez envie de participer aux plus grands projets de transformation numérique avec des passionnés d’innovation ? Avec LGS, les possibilités sont infinies. Nous sommes une entreprise locale, d’envergure internationale, propulsée par la puissance du capital intellectuel d’IBM.
+
+Le Centre d’Innovation Client IBM Québec (CIC) chez LGS, emploie un grand nombre de jeunes professionnels qui sont supervisés et encadrés par des employés plus expérimentés dans un environnement favorable à l'apprentissage en continu, en plus d’être un lieu où la diversité et les talents de l’international sont mis de l’avant.
+
+Le CIC Québec a des bureaux à Montréal, Gatineau, Rimouski et Québec et fait partie du réseau mondial d’IBM.
+
+Pourquoi travailler chez LGS ?
+
+· Régime d’épargne retraite avec contribution de l’employeur
+
+· Cheminement de carrière et développement professionnel
+
+· Mentorat et parrainage
+
+· Perfectionnement continu (Accès aux formations et certifications IBM et plus)
+
+· Compte mieux-être
+
+· Télémédecine
+
+· Horaire de travail flexible
+
+· Encore plus d’avantages sociaux !
+
+Joignez notre équipe en tant qu’Analyste en Assurance Qualité!
+
+Description du poste
+
+Mettre en œuvre la stratégie d’essais du projet.
+Préparer et assurer l’exécution, en collaboration avec les équipes de réalisation, les tests complets planifiés pour assurer la qualité des systèmes.
+Identifier les opportunités d'amélioration du processus qualité dans l’équipe
+Collaborer avec les architectes, les développeurs et les analystes pour identifier et optimiser les efforts d’automatisation et recommandez des solutions.
+S’assurer que les anomalies, ainsi que leur résolution, de tous les niveaux de tests, soient bien prises en charge par les équipes de réalisation.
+S’assurer que les causes racines ont été identifiées par l’équipe et que la solution permanente a bien été réalisée.
+Mettre à profit votre connaissance du développement logiciel, votre rigueur et votre aptitude à gérer la complexité pour identifier précisément les efforts d’essais et les optimiser sur les zones à risque.
+Agir comme joueur d’équipe et démontrer un leadership dans la mise en place intégrée des approches qualité et des approches agiles, dans leur maintien et leur mise à jour.
+Exigences et qualifications requises
+
+Minimum de 4 ans d’expérience pertinente
+Expertise au niveau du processus d’assurance-qualité et de la mise en place d’outil d’assurance-qualité
+· Connaissance des langages de programmation tels que Java, Python, JavaScript, .Net, C# ou similaire
+Connaissance de l’environnement de développement Agile
+Connaissance de la suite Altassian (JIRA, Confluence)
+Expertise avec les outils Selenium ou Cucumber, Postman, XRay,
+Maîtrise de la rédaction de plan et de cas d’essais
+Maîtrise dans l’exécution des essais et dans le suivi des essais
+Le titulaire du poste doit être bilingue en français et en anglais, car il sera amené à collaborer avec des ressources à l'extérieur du Québec.
+Chez LGS, nous offrons des solutions d’affaires, des services professionnels et des ressources à valeur ajoutée. Notre expertise touche principalement : l’infonuagique, les services applicatifs, l’analyse cognitive & l’Intelligence artificielle et les services d’appoint.
+
+Ce qui nous distingue? La force de notre capital intellectuel mondial et l’affiliation de nos pratiques à l’expertise d’IBM. Notre ADN est local, mais notre portée est internationale.
+
+LGS s'engage à favoriser un environnement qui prône l'équité, la diversité et l'inclusion.
+
+*******************************************
+
+Do you want to participate in the largest digital transformation projects with people who are passionate about innovation? With LGS, the possibilities are infinite. We are a local company with a global reach, powered by the intellectual capital of IBM.
+
+The IBM Client Innovation Centre Quebec (CIC) at LGS employs a large number of young professionals who are supervised and mentored by more experienced employees in a continuous learning environment. We have a strong culture of diversity and inclusion, and we embrace international talent.
+
+CIC Quebec has offices in Montreal, Gatineau, Rimouski and Quebec City and is part of the IBM global network.
+
+Why work at LGS?
+
+· Retirement savings plan with employer contribution
+
+· Career and professional development
+
+· Mentoring and sponsorship
+
+· Ongoing development (Access to IBM training and certifications and more)
+
+· Wellness account
+
+· Telemedicine
+
+· Flexible work schedule
+
+Join our team as a QA Analyst!
+
+Job Description
+
+Implement a project testing strategy.
+Prepare and ensure execution, in collaboration with the delivery teams, of planned comprehensive tests to ensure system quality.
+Identify opportunities to improve the quality process within the team.
+Collaborate with architects, developers, and analysts to identify and optimize automation efforts and recommend solutions.
+Ensure that anomalies, as well as their resolution, from all levels of testing, are properly managed by the implementation teams.
+Ensure that root causes have been identified by the team and that a permanent solution has been delivered.
+Leverage your knowledge of software development, your thoroughness, and your ability to manage complex situations to accurately identify and optimize testing efforts in areas of risk.
+Act as a team player and demonstrate leadership in the integrated implementation of quality and agile approaches, as well as maintaining and updating them.
+Requirements and qualifications
+
+Minimum of 4 years of relevant experience
+Expertise in QA processes and QA tool implementation
+· Knowledge of programming languages such as Java, Python, JavaScript, .Net, C# or similar
+Knowledge of the Agile development environment
+Knowledge of the Altassian suite (JIRA, Confluence)
+Expertise with Selenium or Cucumber, Postman, XRay tools,
+Experience in test plan and test case writing
+Experience in the execution of tests and in the follow-up of tests
+The incumbent must be bilingual in French and English as the employee will be required to work with resources outside of Quebec.
+At LGS, we offer business solutions, professional services, and value-added resources. Our expertise lies in: cloud computing, application services, cognitive analysis & Artificial Intelligence, and support services.
+
+What sets us apart? The strength of our global intellectual capital and the affiliation of our practices with IBM expertise. Our DNA is local, but our reach is global.
+
+#IBMJOBS #CICJOBS
+
+Job Type: Full-time
+
+Benefits:
+
+Casual dress
+Dental care
+Flexible schedule
+Language training provided
+Life insurance
+RRSP match
+Vision care
+Wellness program
+Work from home
+Schedule:
+
+8 hour shift
+Monday to Friday
+Experience:
+
+quality assurance: 1 year (preferred)
+Work Location: Hybrid remote in Montréal, QC
+
+Hiring Insights
+Hiring 10+ candidates for this role

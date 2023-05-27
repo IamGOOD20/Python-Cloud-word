@@ -1,0 +1,68 @@
+Senior Back-End Web Developer
+Solutions Petal Inc.
+Montréal, QC
+Remote
+Full-time
+
+Job
+
+Company
+Job details
+Matches job preferences you are interested in
+Job type
+Full-time
+Full Job Description
+Founded in Quebec City in 2010, Petal is a dynamic and growing company made up of over 250 enthusiasts who have developed innovative real-time care orchestration and medical billing solutions for Health Delivery Organizations. Patient self-scheduling, clinical capacity management, care coordination, physician scheduling and secure communication, all on our innovative and secure cloud platforms.
+
+
+You want to make a difference?
+
+If, for you, accomplishment and challenge come hand in hand.
+
+If, for you, the opportunity to make a real impact in the community is a reason to get up in the morning.
+
+If, to you, software is more than code, it’s a tool to make the world better.
+
+Launch your career while making a positive impact on society by joining one of Canada's fastest growing healthcare technology companies.
+
+
+Let’s talk stack
+Our backend stack mainly consists of APIs within a Ruby on Rails application built on top of Redis, ElasticSearch, Sidekiq, Docker and MySQL. This backend coordinates multiple different data streams and allows for complex healthcare ecosystems to be optimized and efficient. Our frontend and mobile apps utilize modern frameworks such as Angular and React Native, RxJS, Redux, and Storybook. Quality being at the center of our principles, all of this code is tested using frameworks such as Jest as well as end-to-end testing libraries and services. Finally, we strongly believe in a continuous delivery approach and have achieved a strong maturity in this regard, deploying code in production environments multiple times a day.
+
+Finally, just because you haven't worked with Ruby on Rails before, it doesn't mean you can't apply to work with us! As long as you're open to learning and using the technologies we use, we're open to anyone with experience in object-oriented programming languages such as C#, Java, Python etc.
+
+
+Curious about our challenges?
+
+Did we mention that we're aiming for world-class? Think about efficient, highly scalable and responsive infrastructures, think interoperability, think multiple languages, think security - where to start! GDPR, PEPIDA, SOC2, and so on - we work in healthcare, that's a given.
+
+
+Much has been done, but much remains to be done for us to be satisfied. Do you want to participate in our transformation and collaborate in refining the techniques and practices that make the development of modern and complex web applications so challenging, but oh so rewarding? We absolutely want to meet you!
+
+
+So what are we looking for?
+
+First off, a palpable passion for your craft - be able to tell us about accomplishments that you are proud of!
+In-depth knowledge of software development - with a minimum experience of 6 years in web development.
+A strong interest in solving complex problems and mentoring and engaging your junior-intermediate colleagues.
+Autonomy - but don't worry, you won't be alone in your corner when you arrive! You will have a dedicated colleague to support you for as long as you need.
+Reliability - no one wants to check your hours. We're interested in what you produce, how you advance your team's goals, and what you put in the hands of our customers.
+Collaboration - you must have the ability to work harmoniously with others and have a constructive approach to challenges or disagreements.
+Maturity - senior developers at Petal understand business issues and are able to face challenges with pragmatism and a solution-oriented approach.
+Since you must interact with your colleagues, many of whom are unilingual Anglophones or unilingual Francophones, full English-French proficiency (spoken, written and read) is mandatory.
+
+What awaits you
+
+
+A signing bonus of 1 000$ for your remote work set-up;
+Compensation that recognizes your contribution;
+4 to 6 weeks of vacation per year;
+5 paid personal days per year;
+A group RRSP / DPSP plan with employer contributions;
+A complete group insurance plan, from day 1;
+An annual wellness allowance of $250;
+Possibility to work fully remote;
+Access to the Dialogue™ telehealth application;
+Flexible work hours and more.
+
+#LI-Hybrid

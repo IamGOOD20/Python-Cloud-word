@@ -1,4 +1,4 @@
-Analyste QA / QA Analyst
+Analyste QA/QA Analyst
 LGS, une société IBM
 Montréal, QC
 Hybrid remote
@@ -85,8 +85,6 @@ Chez LGS, nous offrons des solutions d’affaires, des services professionnels e
 Ce qui nous distingue? La force de notre capital intellectuel mondial et l’affiliation de nos pratiques à l’expertise d’IBM. Notre ADN est local, mais notre portée est internationale.
 
 LGS s'engage à favoriser un environnement qui prône l'équité, la diversité et l'inclusion.
-
-*******************************************
 
 Do you want to participate in the largest digital transformation projects with people who are passionate about innovation? With LGS, the possibilities are infinite. We are a local company with a global reach, powered by the intellectual capital of IBM.
 

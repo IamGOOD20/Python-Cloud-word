@@ -1,4 +1,4 @@
-# Test task CIVIS company
+# Cloud word. TOP words about vacancies in Montreal
 ## Goal: 
     extract 10 job offers from a job posting site (manually or using code)
     Save to dataframe
